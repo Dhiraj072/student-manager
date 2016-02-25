@@ -21,12 +21,12 @@ Student Database and Result Maintenance System
   
   Sample Run: Enter inputs in the following order
   
-    UserName:   student
-    Password:   student
-    CHOICE:     2.Academic Records
-    CHOICE:     1.Marks
-    CHOICE:     1.Subject-Wise Marks
-    CHOICE:     1-Maths
+    Student or Administrator:   student
+    Student Password:           student
+    CHOICE:                     2.Academic Records
+    CHOICE:                     1.Marks
+    CHOICE:                     1.Subject-Wise Marks
+    CHOICE:                     1-Maths
 
 Files used are BIODATA1.txt, MATHS.txt, ENGLISH.txt, EG.txt, PHYSICS.txt, PDS.txt, ACH.txt
 
