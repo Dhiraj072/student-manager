@@ -1,5 +1,5 @@
 # student-manager
-Student Database and Result Maintenance System
+Student Database and Result Maintenance System. Sorry for all the code in a single file, this is from my good old 1st yr undergraduate days!
 
 ##To run the project
 
